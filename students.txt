@@ -1,0 +1,4 @@
+Ashwathy,22,MSc Computer Science
+Rahul,22,MSc Mathematics
+Sachy,22,MBA
+Arunima,22,MPharm
